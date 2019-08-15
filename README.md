@@ -1,6 +1,8 @@
 # Obesity-project
 Description of the obesity project done with MIMIC-III database on March 2017.
 
+You can find the manuscript now available on [Severity of Illness Scores May Misclassify Critically Ill Obese Patients.](https://insights.ovid.com/pubmed?pmid=29194147)
+
 Study question:
 "to compare the deviation of laboratory results utilized in scoring systems from baseline to ICU admission in both obese and normal weight patients, adjusted for the severity of score illness (SAPS-II or SOFA)"
 
